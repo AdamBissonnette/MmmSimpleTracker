@@ -1,7 +1,7 @@
 Mmm Simple Tracker
 ========
 
-This is a simple project to log client ip and browser info
+This is a simple project to log client ip and browser info and tie it to a given "code" request parameter for ease of lookup.
 
 # Dependencies
 
